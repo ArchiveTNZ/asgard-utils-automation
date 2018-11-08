@@ -9,4 +9,9 @@ Install Ansible:
 $ sudo yum install -y ansible
 ```
 
+Install Ansible Galaxy Roles:
+```
+$ ansible-galaxy install -r requirements.yml
+```
+
 ## TODO: Ansible instructions
